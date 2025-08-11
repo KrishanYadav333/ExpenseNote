@@ -41,6 +41,8 @@ ExpenseNote is a modern, feature-rich expense tracking application that helps yo
 
 ## Deployment to GitHub Pages
 
+The application is deployed and can be accessed at: https://Ishan604567.github.io/ExpenseNote/
+
 To deploy this application to GitHub Pages:
 
 1. Create a new repository on GitHub
@@ -50,7 +52,7 @@ To deploy this application to GitHub Pages:
 5. Under "Source", select "Deploy from a branch"
 6. Select "main" branch and "/ (root)" folder
 7. Click "Save"
-8. Your site will be available at `https://[your-username].github.io/[repository-name]/`
+8. Your site will be available at `https://Ishan604567.github.io/ExpenseNote/`
 
 ## Local Development
 
@@ -80,4 +82,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Ishan]
